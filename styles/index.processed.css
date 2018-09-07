@@ -1,0 +1,32 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+body {
+  background: #f5f5f5;
+}
+
+.title {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+li {
+  font-size: 18px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 30px;
+  text-align: center;
+  border-radius: 50%;
+  opacity: 0.7;
+}
+
+div.a {
+  text-align: center;
+}
